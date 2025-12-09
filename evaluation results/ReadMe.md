@@ -2,11 +2,15 @@ This folder contains all the evaluation materials regarding the generated UML Co
 The evaluation was conducted by expert reviewers using a structured rubric.
 
 Files Included
+
 - eval.xlsx – Consolidated scoring sheet containing numerical evaluations for all diagrams.
+
 -Evaluation Style Agnostic classification.xlsx – Classification for diagrams in the style-agnostic setting.
+
 -Comments on the diagrams by Evaluator 1.pdf – Qualitative feedback and justification notes from one evaluator.
 
 Field values for eval.xlsx:
+
   Settings:
     Each diagram was assessed under one of the following architectural settings:
       Generic – Style-agnostic / no architectural constraints
